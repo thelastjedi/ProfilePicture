@@ -23,3 +23,7 @@ Gender-neutral alternative to placeholder images for your app users.
 	@property (nonatomic, assign) CGFloat   imageInset;
 	@property (nonatomic, assign) BOOL      isSquare;
 ```
+
+* ProfilePicture-Example
+
+![profilepicture-example](https://cloud.githubusercontent.com/assets/1327490/6333283/c01cc3f2-bbb1-11e4-94c3-996eb93112bd.png)
