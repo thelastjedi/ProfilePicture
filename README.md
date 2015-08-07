@@ -11,13 +11,13 @@ Gender-neutral alternative to placeholder images for your app users.
 * Import  ``` “ProfilePicture.h”  ```
 
 * Setup _profilepicture_ using the below method:
-```
+```objc
 	-(void)loadUserImage:(id)image forUser:(NSString*)username;
 ```
 
 * Customise:
 
-```
+```objc
 	@property (nonatomic, strong) UIFont  * initialsFont;
 	@property (nonatomic, strong) UIColor * initialsColor;
 	@property (nonatomic, assign) CGFloat   imageInset;
